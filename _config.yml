@@ -12,7 +12,7 @@ title : Jekyll and Bootstrap
 tagline: Experimenting with static site generation.
 author :
   name : Peter Carbonetto
-  github : pcarbo
+  github : pcarbo 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
