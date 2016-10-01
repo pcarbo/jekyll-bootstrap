@@ -4,7 +4,10 @@ title: "First Blog Post"
 date: 2016-10-01
 ---
 
-Well. Finally got around to putting this old website together. Neat
-thing about it - powered by [Jekyll](http://jekyllrb.com) and I can
-use Markdown to author my posts. It actually is a lot easier than I
-thought it was going to be.
+This is my first blog post written in [Markdown](http://daringfireball.net/projects/markdown/syntaxq)
+(more precisely, [kramdown](http://kramdown.gettalong.org/syntax.html)) and
+rendered into HTML using [Jekyll](http://jekyllrb.com) on
+[Github](http://www.github.com).
+
+My impression so far is that these technologies allow for development of
+sophisticated websites with surprisingly little hassle!
